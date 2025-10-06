@@ -6,46 +6,6 @@
 
 # Please don't modify any code in this file!!!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # from OPC UA Library to import uamethod and server
 # import all the required python libraries
 import opcua
