@@ -1,0 +1,59 @@
+Time      |Conveyor Belt       |KUKA Robot          |CNC Lathe           |Workpiece ID        |KUKA Operation      |CNC Lathe Operation 
+          |Status    |R_Time   |Status    |R_Time   |Status    |R_Time   
+13:45:01  |Idle      |-s       |Idle      |-s       |Idle      |-s       |null                |null                |null                
+13:45:02  |Idle      |-s       |Idle      |-s       |Idle      |-s       |null                |null                |null                
+13:45:03  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:04  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:05  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:06  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:07  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:08  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_MSR933          |Measurement         |null                
+13:45:09  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_MSR933          |Measurement         |null                
+13:45:10  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_MSR933          |Measurement         |null                
+13:45:11  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_MSR933          |Measurement         |null                
+13:45:13  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_MSR933          |Measurement         |null                
+13:45:14  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+13:45:15  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR933          |null                |null                
+Operation C Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+13:45:16  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:17  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:18  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:19  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:20  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:21  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_MSR493          |Measurement         |null                
+13:45:22  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_MSR493          |Measurement         |null                
+13:45:23  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_MSR493          |Measurement         |null                
+13:45:24  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_MSR493          |Measurement         |null                
+13:45:26  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_MSR493          |Measurement         |null                
+13:45:27  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+13:45:28  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR493          |null                |null                
+Operation C Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+13:45:29  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+13:45:30  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+13:45:31  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+13:45:32  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+13:45:33  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:34  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:35  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:36  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:37  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:39  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_MSR187          |Measurement         |null                
+13:45:40  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+13:45:41  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR187          |null                |null                
+Operation C Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+13:45:42  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_MSR329          |null                |null                
+13:45:43  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_MSR329          |null                |null                
+13:45:44  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_MSR329          |null                |null                
+13:45:45  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_MSR329          |null                |null                
+13:45:46  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:47  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:48  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:49  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:50  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:52  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_MSR329          |Measurement         |null                
+13:45:53  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_MSR329          |null                |null                
+Operation C Completed!
+----------------------------------------------------------------------------------------------------------------------------------

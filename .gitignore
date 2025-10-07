@@ -12,6 +12,7 @@ __pycache__/
 # Ignore IDE/editor folders
 .vscode/
 .idea/
+OPC-RES/
 
 # Ignore logs or temp files
 *.log
